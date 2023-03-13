@@ -1,0 +1,8 @@
+mx\com\gm\web\ServletDelete.class
+mx\com\gm\servicio\ServicioPersonas.class
+mx\com\gm\web\ServletControlador.class
+mx\com\gm\dao\PersonaDAO.class
+mx\com\gm\web\ServletUpdate.class
+mx\com\gm\domain\Usuario.class
+mx\com\gm\web\ServletInsert.class
+mx\com\gm\domain\Persona.class
